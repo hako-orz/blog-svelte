@@ -1,4 +1,5 @@
 <script lang="ts">
+    import "../styles/app.css";
     import Nav from '../components/Nav.svelte';
     import type { LayoutProps } from './$types';
 
